@@ -1,8 +1,5 @@
 # funcaptcha-captcha-solver
-Funcaptcha Solver [FREE TRIAL]
 
-
-![How to solve Funcaptcha](https://assets.capsolver.com/prod/images/post/2023-05-18/7f186e54-784a-405d-8a22-5b2a0e893d57.png)
 
 # How to Solve FunCaptcha with CapSolver
 
