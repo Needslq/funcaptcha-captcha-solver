@@ -115,4 +115,4 @@ The captcha token received can be verified by submitting it to the relevant site
 > ⚠️ **If the token is rejected, it may indicate that some information is missing or incorrect. We recommend thoroughly checking whether the FunCaptcha  whether requires additional parameters listed as optional in our documentation.**
 
 In conclusion, while solving FunCaptcha may seem a daunting task, capsolver.com makes the process swift and efficient. By following the steps outlined above, you can easily resolve FunCaptcha.
-     
+      
